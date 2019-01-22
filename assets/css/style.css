@@ -1,0 +1,28 @@
+/* untuk navbar */
+.navbar {
+  position: relative;
+  height: 70px;
+  /* margin-top: 40px; */
+  /* border-top: 3px solid #000; */
+  background-color:white;
+  margin-bottom: 0;
+
+}
+
+/* untuk caption di coresel */
+.caption {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
+
+.caption span.border {
+  background-color:#2980B9   ;
+  color: #fff;
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 10px;
+}
